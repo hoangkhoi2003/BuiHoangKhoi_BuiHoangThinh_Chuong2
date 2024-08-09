@@ -1,2 +1,6 @@
-﻿  Bai2_Trang14.cpp
-  BTChuong2.vcxproj -> C:\Users\hoang\OneDrive\Máy tính\DayLen\KTLT\Chuong2\BTChuong2\x64\Debug\BTChuong2.exe
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Bai1-12_trang_14-15.cpp
+C:\Users\hoang\OneDrive\Máy tính\DayLen\KTLT\Chuong2\BTChuong2\BTChuong2\Bai1-12_trang_14-15.cpp(10,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hoang\OneDrive\Máy tính\DayLen\KTLT\Chuong2\BTChuong2\BTChuong2\Bai1-12_trang_14-15.cpp(13,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hoang\OneDrive\Máy tính\DayLen\KTLT\Chuong2\BTChuong2\BTChuong2\Bai1-12_trang_14-15.cpp(236,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  BTChuong2.vcxproj -> C:\Users\hoang\OneDrive\Máy tính\daylen\KTLT\Chuong2\BTChuong2\x64\Debug\BTChuong2.exe
