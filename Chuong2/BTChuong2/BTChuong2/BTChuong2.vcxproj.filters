@@ -18,5 +18,8 @@
     <ClCompile Include="Bai1_Trang14.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bai2_Trang14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
