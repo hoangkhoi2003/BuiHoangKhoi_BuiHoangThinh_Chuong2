@@ -1,0 +1,2 @@
+STT   MSSV       Ho Ten                         Tieu Luan  Thi        Tong Ket   He 4       Xep Loai
+1     2001210864 Bui Hoang Khoi                 10.00      10.00      10.00      4.00       A

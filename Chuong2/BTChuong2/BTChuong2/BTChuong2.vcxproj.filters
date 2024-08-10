@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Bai2_Trang70">
+      <UniqueIdentifier>{d7ee8795-f568-481f-ab49-ebf30ccc6565}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Bai1_Trang14.cpp">
@@ -36,5 +39,13 @@
     <ClCompile Include="Bai3_Trang61.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bai2_Trang70cpp.cpp">
+      <Filter>Source Files\Bai2_Trang70</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="danhsachsinhvien.txt">
+      <Filter>Source Files\Bai2_Trang70</Filter>
+    </Text>
   </ItemGroup>
 </Project>
