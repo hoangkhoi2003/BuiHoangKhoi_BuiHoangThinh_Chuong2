@@ -27,5 +27,8 @@
     <ClCompile Include="Bai1-5_Trang58.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bai1_Trang61.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
