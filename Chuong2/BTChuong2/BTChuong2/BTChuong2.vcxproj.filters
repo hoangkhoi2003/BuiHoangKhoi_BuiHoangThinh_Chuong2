@@ -48,8 +48,11 @@
     <ClCompile Include="Bai1-5_Trang65.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Bai6_Trang24.cpp">
-      <Filter>Source Files\Bai2_Trang70</Filter>
+    <ClCompile Include="Bai6-Trang24.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bai2-8_Trang28.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
