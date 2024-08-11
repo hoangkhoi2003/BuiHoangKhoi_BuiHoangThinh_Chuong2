@@ -48,6 +48,9 @@
     <ClCompile Include="Bai1-5_Trang65.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bai6_Trang24.cpp">
+      <Filter>Source Files\Bai2_Trang70</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="danhsachsinhvien.txt">
